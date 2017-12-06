@@ -1,0 +1,25 @@
+h2, label{
+	text-align: center;
+}
+
+#select_box {
+	margin-bottom: 1.1rem;
+}
+
+#select_box, #select_box_2 {
+	width: 65%;	
+	padding-left: 35%;
+}
+
+
+#button_group {
+	text-align: center;
+}
+
+.form-inline {
+	text-align: center;
+}
+
+.form-group {
+	text-align: center;
+}

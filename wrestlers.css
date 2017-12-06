@@ -1,0 +1,35 @@
+h2, label{
+	text-align: center;
+}
+
+select {
+	text-align: center;
+}
+
+option {
+	font-size: 1.8rem;
+}
+
+#button_group {
+	text-align: center;
+}
+
+.form-inline {
+	text-align: center;
+}
+
+.jumbotron{
+	padding-top: 2rem;
+	text-align: center;
+}
+
+.view_headings {
+	font-weight: bold; 
+	text-decoration: underline;
+}
+
+#view_name {
+	font-weight: bold;
+	padding-top: -2rem;
+	padding-bottom: 3rem;
+}
